@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.Enviar{
+    width: 400px;
+    background-color: black;
+    padding: 30px;
+    margin:auto;
+    margin-top: 100px;
+    border-radius:4px;
+    font-family: 'calibri';
+    color: white;
+}
+.nav-enlace{
+    background-color: black;
+    color:  red;
+    text-decoration: none;
+    padding: 10px 30px;
+}
+.nav-enlace:hover{
+    background: rgba(255, 0, 0, 0.301);
+}
+.bandas{
+    font-family: 'calibri';
+    color: white
+}
+
+h1{
+    font: bold 30px verdana, sans-serif;
+    font-weight: normal;
+
+}
+
+h2{
+    font: bold 20px verdana, sans-serif;
+}
+
+
+body{
+    text-align: center;
+    background-image: url(https://www.publicdomainpictures.net/pictures/210000/velka/red-guitars-background.jpg);
+
+    
+}
+
+#agrupar{
+    width: 960px;
+    margin: 25px auto;
+}
+
+
+.bandas{
+    font-family: 'calibri';
+    color: white
+}
+
+
+#menu{
+
+    clear: both;
+    text-align:center;
+    padding: 40px;
+    background: rgba(0, 0, 0, 1);
+    border-top:2px solid #CCCCCC;
+    text-decoration: none;
+}
+
+#seccion{
+    float: right;
+    width: 360px;
+    margin: 5px;
+    padding: 40px;
+}
+
+
+#columna{
+
+    float: left;
+    width: 300px;
+    margin: 40px 130px;
+    padding: 20px;
+    background: #a11313d7;
+    border-radius:100%;
+
+}
+
+
+
+#pie{
+    clear: both;
+    text-align:center;
+    color:red;
+    padding: 20px;
+    background: rgba(0, 0, 0, 1);;
+    border-top:2px solid #CCCCCC;
+}
+
+img{
+    width: 300px;
+    border-radius:100%;
+}
+
+article{
+    background:  #a11313d7;
+    border: 1px solid #c47e7ee8;
+    padding: 20px;
+    margin-bottom:35px;
+    border-radius:10%;
+    box-shadow: rgb(175, 66, 16) 10px 10px 10px ;
+}
+
+#logo{
+
+    float:right;
+    width: 120px ;
+    margin: 0px;
+    padding: 0px;
+}
+
